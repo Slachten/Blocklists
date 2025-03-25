@@ -28,5 +28,8 @@ ads.mozilla.org,ads.mozilla.org
 c.pki.goog,c.pki.goog
 cxcs.microsoft.net,cxcs.microsoft.net
 default.exp-tas.com,default.exp-tas.com
-www.google.com,www.google.com
-twitch.tv,twitch.tv
+www.googleadservices.com,www.googleadservices.com
+ogads-pa.clients6.google.com,ogads-pa.clients6.google.com
+csp.withgoogle.com,csp.withgoogle.com
+waa-pa.clients6.google.com,waa-pa.clients6.google.com
+img-getpocket.cdn.mozilla.net,img-getpocket.cdn.mozilla.net
